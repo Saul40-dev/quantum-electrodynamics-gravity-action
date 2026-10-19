@@ -74,3 +74,6 @@ $$ E = F_e \cdot r = 44.9377 \text{ N} \times 0.04 \text{ m} = 1.7975 \text{ Jou
 
 Este trabajo está protegido bajo la Licencia **Creative Commons Attribution 4.0 International (CC BY 4.0)**. 
 Eres libre de compartir y adaptar el material siempre que otorgues el crédito correspondiente al autor original.
+
+## Doi
+10.5281/zenodo.23485386
